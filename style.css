@@ -677,3 +677,12 @@ input:focus, textarea:focus {
   letter-spacing: .5px;
   color: #00abf0;
 }
+.about-content h3{
+  margin-top: 40px;
+  margin-bottom: 14px;
+  font-size: 18px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: .5px;
+  color: #00abf0;
+}
